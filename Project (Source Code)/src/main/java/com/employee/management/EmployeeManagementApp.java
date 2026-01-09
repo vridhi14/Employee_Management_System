@@ -27,7 +27,7 @@ public class EmployeeManagementApp {
     
     public static void main(String[] args) {
         System.out.println("╔════════════════════════════════════════════════════════════╗");
-        System.out.println("║  EMPLOYEE MANAGEMENT & PAYROLL SYSTEM                      ║");
+        System.out.println("║  EMPLOYEE MANAGEMENT SYSTEM                                ║");
         System.out.println("║  Java + Maven + JDBC + MySQL                               ║");
         System.out.println("╚════════════════════════════════════════════════════════════╝");
         
